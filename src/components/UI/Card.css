@@ -4,6 +4,7 @@
     background-color: white;
     box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.2);
     border-radius:2rem;
+    transform: translatey(-3rem);
 }
 
 @media screen and (max-width:1000px) {
