@@ -1,0 +1,11 @@
+.error-alert{
+    width:100%;
+    padding:1rem;
+    font-size: 1.2rem;
+    background-color: crimson;
+    border-radius: 2rem;
+    color:whitesmoke;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 2rem 2rem 0rem 0rem;
+    height: 20%;
+}
