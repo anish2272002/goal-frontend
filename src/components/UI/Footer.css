@@ -1,7 +1,7 @@
 .footer{
     opacity: 0.8;
     font-weight: bold;
-    position: absolute;
+    position: fixed;
     bottom: 1rem;
     margin:auto;
 }
